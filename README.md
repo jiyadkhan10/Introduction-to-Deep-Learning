@@ -1,6 +1,7 @@
 <div align="center" dir="auto">
   <img src="https://github.com/globalaihub/introduction-to-machine-learning/raw/main/Decision%20Trees/img/logo.png" style="max-width: 100%;">
 </div>
+
 # Introduction to Deep Learning
 <p dir="auto">You can find more information about the Introduction to Deep Learning Course by visiting <a href="https://globalaihub.com/courses/introduction-to-deep-learning/" rel="nofollow">Course Website</a></p>
 
